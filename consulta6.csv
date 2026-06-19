@@ -1,0 +1,21 @@
+regiao,tipo_vinculo,total_docentes
+Centro-Oeste,Concursado,84035
+Centro-Oeste,Contrato Temporario,77110
+Centro-Oeste,CLT,1643
+Centro-Oeste,Terceirizado,656
+Nordeste,Concursado,356308
+Nordeste,Contrato Temporario,313659
+Nordeste,Terceirizado,5887
+Nordeste,CLT,3000
+Norte,Concursado,130481
+Norte,Contrato Temporario,104863
+Norte,CLT,833
+Norte,Terceirizado,322
+Sudeste,Concursado,531720
+Sudeste,Contrato Temporario,308323
+Sudeste,CLT,30213
+Sudeste,Terceirizado,6895
+Sul,Concursado,240845
+Sul,Contrato Temporario,163644
+Sul,CLT,6622
+Sul,Terceirizado,2143
